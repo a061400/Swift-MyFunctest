@@ -2,12 +2,12 @@
 //  main.swift
 //  myfunctest
 //
-//  Created by 謝尚霖 on 2017/9/12.
-//  Copyright © 2017年 sunni. All rights reserved.
+//  Created by user22 on 2017/9/12.
+//  Copyright © 2017年 Brad Big Company. All rights reserved.
 //
-
 import Foundation
 
 print("Hello, World!")
-
-a()
+ftest1()
+ftest2()
+ftest3()
